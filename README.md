@@ -15,4 +15,4 @@ This project implements an autoencoder, a neural network architecture, to genera
 - Useful for tasks such as music data compression, noise reduction, anomaly detection in audio signals, and generative music composition.  
 - Serves as a foundation for exploring real-world datasets for advanced music generation.  
 
-Let me know if you'd like additional details or ideas to enhance the project! 🎵✨
+Let me know if you'd ideas to enhance the project! 🎵✨
